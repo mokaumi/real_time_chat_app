@@ -25,7 +25,7 @@ git clone <your-repo-url>
 cd real-time-chat-app
 
 # Install dependencies
-npm install
+npm install....
 
 # Start the server
 node server.js
